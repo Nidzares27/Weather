@@ -1,0 +1,10 @@
+.wrapper {
+  background-color: aqua;
+  width: fit-content;
+  margin: auto;
+}
+
+.insDiv {
+  text-align: center;
+  margin: 15px;
+}
